@@ -32,9 +32,9 @@ document.getElementById("person").innerHTML = programmer + "s";
 var q = document.getElementById("quote");
 
 q.innerHTML =
-    "\"The " + programmer +
-    ", like the poet, works only slightly removed from pure thought-stuff. He builds his " +
-    castles + " in the " + air + ", from " + air + ", creating by " + exertion + " of the imagination.\"" +
+    "\"I " + programmer +
+    ", like the poet, works only slightly removed from gross thought-stuff. He builds his " +
+    castles + " in the " + air + ", from " + air + ", creating by " + exertion + " of the stuidity.\"" +
     "\u2014" +  "Fred Brooks, " + programmer;
 
 q.innerHTML += "<br><br><br>";
