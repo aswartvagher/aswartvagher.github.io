@@ -31,6 +31,12 @@ var rules = {
   "~*x hello ~*y": [
     "How do you do. Please state your problem."
   ],
+  "~*x Sup? ~*y": [
+    "How do you do. Please state your problem."
+  ],
+  "~*x Why ~*y": [
+    "Because it must be so."
+  ],
   "~*x computer ~*y": [
     "Do computers worry you?",
     "What do you think about machines have to do with your problem?",
