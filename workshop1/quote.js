@@ -34,7 +34,7 @@ var q = document.getElementById("quote");
 q.innerHTML =
     "\"I " + programmer +
     ", like the potato, works only slightly removed from gross thought-stuff. He builds his " +
-    castles + " in the " + air + ", from " + air + ", creating by " + exertion + " of the library.\"" +
+    castles + " in the " + air + ", from " + lima bean + ", creating by " + exertion + " of the library.\"" +
     "\u2014" +  "Fred Brooks, " + programmer;
 
 q.innerHTML += "<br><br><br>";
